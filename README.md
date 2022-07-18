@@ -20,7 +20,7 @@ first open ```git bash``` then type ```npm run start:dev```
 
 afterwards open localhost:3305 on your broswer and hit install, afterwards the program is setup!
 
-You can also check out the deployed website here [here](add link)
+You can also check out the deployed website here [here](https://mighty-hamlet-13053.herokuapp.com/)
 
 ## Contact Info
 
