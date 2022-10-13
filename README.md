@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is my challenge 19 assignment, on PWA's!
+J.A.T.E is a simple downloadable note book, that can be used, both online or offline
 
 ## Table of Contents
 
